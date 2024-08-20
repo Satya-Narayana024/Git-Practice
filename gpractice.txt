@@ -1,2 +1,5 @@
 "Git practicing for interview." 
 "Be stong" 
+"Do practice everyday" 
+"revanth" 
+
